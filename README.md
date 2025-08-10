@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bokya001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I’m Pranav Nanne 👋  
+I’m an AI Engineer passionate about leveraging Python, TensorFlow, and PyTorch to build intelligent, impactful solutions.
 
-<!---
-bokya001/bokya001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Currently working on:** real-time object detection using YOLOv8 and deploying ML models in scalable systems.
+
+**Areas of expertise:**  
+- Machine Learning · Deep Learning · NLP  
+- Model Deployment · Data Engineering · MLOps  
+
+Let’s connect — I’m always open to collaborations or innovative AI discussions!  
